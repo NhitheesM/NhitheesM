@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NhitheesM
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning CSE at Sastra
--
+- ✨ I have Solved more than 200 problems in DSA at various platforms and I have uploaded the code for 125+ problems in my problems repository
 - 📫 How to reach me nhitheesmohan@gmail.com
 
 <!---
