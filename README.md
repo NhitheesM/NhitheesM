@@ -4,19 +4,20 @@
    
  
 <h1 align="center">Hello 👋, I'm Nhithees Mohan</h1>
-<h3 align="center">A Final Year Student at SASTRA University...</h3>
+<h3 align="center"> Final Year Computer Science Student at SASTRA University...</h3>
 <h4 align='center' >From Dindigul, Tamilnadu </h4>
 <hr>
 <p align="center">
-    <a href="https://www.linkedin.com/in/vaibhav-shevne-1b1935170/" target="_blank"><img align="center"
+    <a href="https://www.linkedin.com/in/nhitheesm/" target="_blank"><img align="center"
              src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
             alt="VAIBHAV" height="30" width="40" /></a>
-    <a href="https://www.instagram.com/itz__vaibhzz3.0/" target="_open"><img align="center"
+    <a href="https://www.instagram.com/nhithees_mohan/" target="_open"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="vaibhzz101 height="30" width="40" /></a>
-    <a href="https://twitter.com/vaibhav_shevne" target="blank"><img align="center"
+    <a href="https://twitter.com/MNhithees" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
             alt="vaibhav" height="30" width="40" /></a>
+<!---
     <a href="https://www.facebook.com/vaibhav.shevne.1" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="vaibhzz" height="30" width="40" /></a>
@@ -26,6 +27,7 @@
     <a href="https://www.youtube.com/@vaibhavshevne" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg"
             alt="Vaibhav Shevne height="30" width="40" /></a>
+--->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhzz101&label=Profile%20views&color=0e75b6&style=flat"
                       alt="vaibhav" />
@@ -86,7 +88,7 @@
         alt="styled-components" />
 </p>
 <p align="center"><img 
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhzz101&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p>    
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=NhitheesM&show_icons=true&locale=en&layout=compact&theme=react&hide_border=true&bg_color=0D1117"/></p>    
 <p align="center">
     <a href="https://github.com/NhitheesM">
         <img title=":fire: Get streak stats for your profile at git.io/streak-stats" alt="streak"
