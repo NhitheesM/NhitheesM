@@ -5,7 +5,7 @@
  
 <h1 align="center">Hello 👋, I'm Nhithees Mohan</h1>
 <h3 align="center"> Developer of Softwares...</h3>
-<h4 align='center' >Ftom India </h4>
+<h4 align='center' >From India </h4>
 <hr>
 <p align="center">
     <a href="https://www.linkedin.com/in/nhitheesm/" target="_blank"><img align="center"
