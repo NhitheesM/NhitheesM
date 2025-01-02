@@ -34,7 +34,7 @@
     </p>
     </br> 
     
-- 🔭 I’m a **Final Year Graduate**
+- 🔭 I’m a **Software developer ** now
 
 - 🌱 I’m currently learning **React.JS**
 
